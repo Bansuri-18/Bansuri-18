@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bansuri-18
 - 👀 I’m interested in designing and content writting.
-- 🌱 I’m currently learning programming languages like C++ and Java.
+- 🌱 I’m currently learning programming languages like C and python.
 - 💞️ I’m looking to collaborate on projects and researches.
 - 📫 How to reach me My mail Id is vanshu1802@gmail.com
 
